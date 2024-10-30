@@ -1,0 +1,11 @@
+@font-face
+{
+font-family:vazir;
+src:url('./vazir/vazir.eot?#iefix') format("embedded-opentype"),
+url('./vazir/vazir.woff2') format("woff2"),
+url('./vazir/vazir.woff') format("woff"),
+url('./vazir/vazir.ttf') format("truetype")
+}
+body.rtl {font-family: vazir, sans-serif, tahoma, arial;}.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6, .rtl select, strong ,a ,#wpadminbar .ab-label,.editor-styles-wrapper>*,.wp-editor-area,.CodeMirror-wrap pre span,.components-button,label,button,.components-modal__frame *, .components-modal__frame :after, .components-modal__frame :before, .components-popover *, .components-popover :after, .components-popover :before, .edit-post-header *, .edit-post-header :after, .edit-post-header :before, .edit-post-layout__inserter-panel *, .edit-post-layout__inserter-panel :after, .edit-post-layout__inserter-panel :before, .edit-post-sidebar *, .edit-post-sidebar :after, .edit-post-sidebar :before, .edit-post-text-editor *, .edit-post-text-editor :after, .edit-post-text-editor :before, .edit-post-visual-editor *, .edit-post-visual-editor :after, .edit-post-visual-editor :before, .editor-post-publish-panel *, .editor-post-publish-panel :after, .editor-post-publish-panel :before,.rtl .media-frame, .rtl .media-frame .search, .rtl .media-frame input[type=email], .rtl .media-frame input[type=number], .rtl .media-frame input[type=password], .rtl .media-frame input[type=search], .rtl .media-frame input[type=tel], .rtl .media-frame input[type=text], .rtl .media-frame input[type=url], .rtl .media-frame select, .rtl .media-frame textarea, .rtl .media-modal,code {
+    font-family: vazir, sans-serif, tahoma, arial !important;
+}

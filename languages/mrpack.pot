@@ -1,0 +1,239 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mr pack for elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-28 17:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: mrpack"
+
+#: includes/class-options.php:226
+msgid ""
+"\n"
+"\n"
+"          <h2>افزونه مستر پک المنتور</h2>\n"
+"          <p>افزونه مستر پک برای المنتور با هدف دسترسی آسان کاربران به "
+"تمپلیت های آماده فارسی برای افزونه صفحه ساز المنتور ساخته و منتشر شده است. "
+"<br>\n"
+"          علاوه بر این سعی کردیم چندین قابلیت کاربردی را به صورت یکجا در این "
+"افزونه قرار دهیم تا کاربران با نصب یک افزونه اکثر نیاز هایشان در رابطه با "
+"افزونه المنتور رفع شود.<br>\n"
+"          در ضمن در این افزونه سعی کرده ایم به شما کاربران عزیز حق انتخاب "
+"دهیم بطوری که شما قادر هستید امکانات افزونه را در بخش تنظیمات بر اساس نیاز "
+"خود فعال و غیر فعال نمایید.<br><br><strong>آقای برنامه نویس&nbsp;</strong>"
+"</p><p><strong><a href=\"https://mr-programer.ir/\" target=\"_blank\">مشاهده "
+"وبسایت آقای برنامه نویس</a></strong></p><strong>\n"
+"          <div class=\"linespase\">\n"
+"                    <div class=\"clear\"></div></strong></div><div "
+"class=\"csf-field csf-field-content\"><p><strong>برای دریافت پشتیبانی می "
+"توانید به <a href=\"https://mr-programer.ir\">mr-programer.ir</a> مراجعه "
+"کنید </strong></p><strong>\n"
+"            <p>\n"
+"            <strong>افزونه مستر پک برای المنتور</strong>\n"
+"            </p>\n"
+"\t\t\t<a href=\"https://mr-programer.ir/aid/\">حمایت مالی ❤</a>\n"
+"          </div>\n"
+"\n"
+"                    \n"
+"                    </p>"
+msgstr ""
+
+#: includes/class-options.php:209
+msgid "<p>این بخش به زودی فعال خواهد شد</p>"
+msgstr ""
+
+#: includes/class-options.php:163
+msgid ""
+"<p>با غیر فعال کردن این گزینه، تمامی فونت های فارسی از ویرایشگر المنتور حذف "
+"خواهد شد.</p>"
+msgstr ""
+
+#: includes/class-options.php:189
+msgid ""
+"<p>با غیر فعال کردن این گزینه، قالب های آماده ایرانی از کتابخانه المنتور حذف "
+"خواهد شد.</p>"
+msgstr ""
+
+#: includes/class-options.php:94
+msgid ""
+"<p>به صورت پیش فرض ترجمه افزونه المنتور و المنتور پرو فعال می باشد. می "
+"توانید باقی افزونه ها را فعال یا غیر فعال کنید.</p>"
+msgstr ""
+
+#: includes/class-options.php:127
+msgid "Dynamic Conditions"
+msgstr ""
+
+#: includes/class-options.php:113
+msgid "Ele Custom Skin"
+msgstr ""
+
+#: includes/class-options.php:148
+msgid "Elementskit Lite"
+msgstr ""
+
+#: includes/class-options.php:120
+msgid "Essential Addons"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://mr-programer.ir/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://mr-programer.ir/mester-pack-plugin/"
+msgstr ""
+
+#: includes/class-options.php:141
+msgid "Metform"
+msgstr ""
+
+#. Name of the plugin
+msgid "mr pack for elementor"
+msgstr ""
+
+#: includes/class-options.php:134
+msgid "Woolentor"
+msgstr ""
+
+#. Author of the plugin
+msgid "آقای برنامه نویس"
+msgstr ""
+
+#: includes/class-options.php:202
+msgid "آیکون های ایرانی"
+msgstr ""
+
+#: includes/class-options.php:34
+msgid "افزونه مستر پک"
+msgstr ""
+
+#: includes/class-options.php:168
+msgid ""
+"با استفاده از این گزینه، می توانید تمامی فونت ها را به صورت یک جا غیر فعال "
+"کنید."
+msgstr ""
+
+#: includes/class-options.php:68
+msgid ""
+"با روشن کردن این گزینه، فونت پنل المنتور را به فونت ایران یکان تغییر دهید."
+msgstr ""
+
+#: includes/class-options.php:74
+msgid ""
+"با فعال کردن این گزینه، تاریخ شمسی برای فیلد فرم ساز المنتور فعال خواهد شد."
+msgstr ""
+
+#: includes/class-options.php:173
+msgid "بارگذاری فونت ها"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"بسته فارسی ساز المنتور مستر پک، افزودن امکانات ویژه پارسی به افزونه المنتور! "
+"اضافه شدن فونت های فارسی، قالب های آماده فارسی در کتابخانه المنتور ، بهبود "
+"ظاهر المنتور و..."
+msgstr ""
+
+#: includes/class-options.php:62
+msgid ""
+"به صورت پیش فرض افزونه مستر پک فونت پنل المنتور را به فونت <b>ایران یکان</b> "
+"تغییر می دهد. در صورت نیاز می توانید این گزینه را غیر فعال کنید."
+msgstr ""
+
+#: includes/class-options.php:79
+msgid "تاریخ شمسی فرم المنتور"
+msgstr ""
+
+#: includes/class-options.php:88
+msgid "ترجمه افزونه ها"
+msgstr ""
+
+#: includes/class-options.php:67
+msgid "تغییر فونت پنل المنتور"
+msgstr ""
+
+#: includes/class-options.php:218
+msgid "درباره ما"
+msgstr ""
+
+#: includes/class-options.php:99
+msgid "فارسی ساز افزونه المنتور"
+msgstr ""
+
+#: includes/class-options.php:106
+msgid "فارسی ساز افزونه المنتور پرو"
+msgstr ""
+
+#: includes/class-options.php:80
+msgid "فعال کردن تاریخ شمسی برای فیلد تاریخ فرم ساز المنتور"
+msgstr ""
+
+#: includes/class-options.php:128
+msgid "فعال/غیر فعال کردن ترجمه فارسی افزونه Dynamic Conditions"
+msgstr ""
+
+#: includes/class-options.php:114
+msgid "فعال/غیر فعال کردن ترجمه فارسی افزونه Ele Custom Skin"
+msgstr ""
+
+#: includes/class-options.php:149
+msgid "فعال/غیر فعال کردن ترجمه فارسی افزونه Elementskit Lite"
+msgstr ""
+
+#: includes/class-options.php:121
+msgid "فعال/غیر فعال کردن ترجمه فارسی افزونه Essential Addons"
+msgstr ""
+
+#: includes/class-options.php:142
+msgid "فعال/غیر فعال کردن ترجمه فارسی افزونه Metform"
+msgstr ""
+
+#: includes/class-options.php:135
+msgid "فعال/غیر فعال کردن ترجمه فارسی افزونه Woolentor"
+msgstr ""
+
+#: includes/class-options.php:100
+msgid "فعال/غیر فعال کردن ترجمه فارسی افزونه المنتور"
+msgstr ""
+
+#: includes/class-options.php:107
+msgid "فعال/غیر فعال کردن ترجمه فارسی افزونه المنتور پرو"
+msgstr ""
+
+#: includes/class-options.php:174
+msgid "فعال/غیر فعال کردن فونت های فارسی"
+msgstr ""
+
+#: includes/class-options.php:195
+msgid "فعال/غیر فعال کردن قالب های آماده ایرانی"
+msgstr ""
+
+#: includes/class-options.php:156
+msgid "فونت های فارسی"
+msgstr ""
+
+#: includes/class-options.php:194
+msgid "قالب های آماده"
+msgstr ""
+
+#: includes/class-options.php:183
+msgid "قالب های آماده ایرانی"
+msgstr ""
+
+#: includes/class-options.php:31 includes/class-options.php:50
+msgid "مستر پک"
+msgstr ""
+
+#: includes/class-options.php:56
+msgid "نسخه افزونه"
+msgstr ""
